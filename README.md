@@ -30,7 +30,7 @@
 
 ## 🚀 About Me
 
-<img align="right" alt="Coding" width="300" src="https://tenor.com/view/smolverse-smol-swol-jr-monkey-gif-1040947447974615700"/>
+<img align="right" alt="Coding" width="300"  src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjNydnlqem9nbXBteGYzdzJwNmQ2bTZyOGo5d2Q5ZmZtMmZ2aHM0dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QXwtfadqo7wbfmT46H/giphy.gif"/>
 
 Recent **Computer Science Graduate** with expertise in full-stack web development, specializing in modern JavaScript frameworks and backend technologies. Passionate about building scalable applications and solving complex problems.  
 
