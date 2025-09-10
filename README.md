@@ -80,14 +80,27 @@ Personal portfolio showcasing **coding + art creations**
 
 ## 📊 GitHub Statistics
 
+<!-- GitHub Stats Section -->
+<!-- 📊 GitHub Stats Section -->
+
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=adityasinghtomar&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" alt="GitHub Streak Stats" width="400"/>
+
+  <!-- 🔥 Streak Stats (shows daily consistency correctly) -->
+  <img src="https://streak-stats.demolab.com?user=adityasinghtomar&theme=tokyonight&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D" 
+       alt="GitHub Streak Stats" width="430"/>
+
+  <br/><br/>
+
+  <!-- 📈 Contribution & Repo Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=adityasinghtomar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github&border_radius=10" 
+       alt="GitHub Stats" width="48%"/>
+
+  <!-- 🏆 Top Languages Used -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityasinghtomar&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" 
+       alt="Top Languages" width="48%"/>
+
 </div>
 
-<div align="center" style="margin-top: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=adityasinghtomar&show_icons=true&theme=github_dark&hide_border=true&count_private=true&title_color=00D9FF&icon_color=FF6B6B&text_color=ffffff&bg_color=0d1117" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityasinghtomar&layout=compact&theme=github_dark&hide_border=true&title_color=00D9FF&text_color=ffffff&bg_color=0d1117" alt="Top Languages" width="48%"/>
-</div>
 
 ---
 
