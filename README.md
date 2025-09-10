@@ -36,8 +36,8 @@ Recent **Computer Science Graduate** with expertise in full-stack web developmen
 
 - 🔧 **Tech Stack:** React.js, Node.js, Express.js, MongoDB, SQL, C++, Python  
 - 🎯 **Focus:** Full-stack development with real-world problem-solving  
-- 🌱 **Currently:** Exploring advanced DSA & system design  
-- 🎨 **Creative Side:** Lead of **Spark Creations KIET** (Graphics & Fashion) and passionate about digital art  
+- 🌱 **Currently:** Exploring WebDev & Figma 
+- 🎨 **Creative Side:** Ex-President of **Spark Creations KIET** (Fashion & creativity society) and passionate about  art  
 - 💡 **Fun Fact:** Anime inspires most of my creativity ✨  
 
 ---
