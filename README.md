@@ -14,16 +14,13 @@
 
   <!-- Social Links -->
   <div style="margin: 20px 0;">
-    <a href="https://www.linkedin.com/in/adityasinghtomar/">
+    <a href="https://www.linkedin.com/in/aditya-singh-tomar-21-11-2k01/">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn"/>
     </a>
-    <a href="mailto:adityasinghtomar21@gmail.com">
+    <a href="mailto:adityasinghtomar890@gmail.com">
       <img src="https://img.shields.io/badge/Email-1E90FF?style=flat-square&logo=gmail&logoColor=white&labelColor=1E90FF" alt="Email"/>
     </a>
-    <a href="https://artbyadi.vercel.app/">
-      <img src="https://img.shields.io/badge/Portfolio-FF6B6B?style=flat-square&logo=react&logoColor=white&labelColor=FF6B6B" alt="Portfolio"/>
-    </a>
-    <a href="https://leetcode.com/u/adityatomar/">
+    <a href="https://leetcode.com/u/aditya_tomar2111/">
       <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white&labelColor=FFA116" alt="LeetCode"/>
     </a>
   </div>
