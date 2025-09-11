@@ -10,24 +10,23 @@
   
   <div>
     <img src="https://img.shields.io/badge/🚀-Open%20To%20Work-00D9FF?style=for-the-badge&logo=rocket&logoColor=white" alt="Open To Work"/>
-    <img src="https://komarev.com/ghpvc/?username=adityasinghtomar&color=blue&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
-    <img src="https://img.shields.io/github/followers/adityasinghtomar?style=for-the-badge&color=orange&logo=github&logoColor=white" alt="Followers"/>
+    <img src="https://komarev.com/ghpvc/?username=Aditya-tomar21&color=blue&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
+    <img src="https://img.shields.io/github/followers/Aditya-tomar21?style=for-the-badge&color=orange&logo=github&logoColor=white" alt="Followers"/>
   </div>
   <br/>
   
-  <div>
-    <a href="https://www.linkedin.com/in/aditya-singh-tomar-21-11-2k01/">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-    </a>
-    <a href="mailto:adityasinghtomar890@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-    </a>
-    <a href="https://leetcode.com/u/aditya_tomar2111/">
-      <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
-    </a>
-  </div>
-
+<div>
+  <a href="https://www.linkedin.com/in/aditya-singh-tomar-21-11-2k01/" title="aditya-singh-tomar-21-11-2k01">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:adityasinghtomar890@gmail.com" title="adityasinghtomar890@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://leetcode.com/u/aditya_tomar2111/" title="aditya_tomar2111">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
+  </a>
 </div>
+
 
 ---
 
@@ -140,16 +139,16 @@ const developer = {
 <div align="center">
 
 ### 🔥 Consistency & Performance
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=adityasinghtomar&theme=dark&hide_border=true&stroke=00D9FF&ring=FFA500&fire=FF6347&currStreakLabel=00D9FF" alt="GitHub Streak" width="450"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Aditya-tomar21&theme=dark&hide_border=true&stroke=00D9FF&ring=FFA500&fire=FF6347&currStreakLabel=00D9FF" alt="GitHub Streak" width="450"/>
 
 <br/>
 
 ### 📈 Development Stats
-<img src="https://github-readme-stats.vercel.app/api?username=adityasinghtomar&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true&title_color=00D9FF&text_color=ffffff&icon_color=FFA500" alt="GitHub Stats" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityasinghtomar&layout=compact&theme=dark&hide_border=true&langs_count=6&title_color=00D9FF&text_color=ffffff" alt="Top Languages" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Aditya-tomar21&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true&title_color=00D9FF&text_color=ffffff&icon_color=FFA500" alt="GitHub Stats" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya-tomar21&layout=compact&theme=dark&hide_border=true&langs_count=6&title_color=00D9FF&text_color=ffffff" alt="Top Languages" width="48%"/>
 
 ### 🏆 Achievements
-<img src="https://github-profile-trophy.vercel.app/?username=adityasinghtomar&theme=darkhub&no-frame=true&row=1&column=6&margin-w=15" alt="GitHub Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Aditya-tomar21&theme=darkhub&no-frame=true&row=1&column=6&margin-w=15" alt="GitHub Trophies"/>
 
 </div>
 
