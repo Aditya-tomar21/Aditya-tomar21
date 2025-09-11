@@ -45,11 +45,13 @@ const developer = {
 };
 ```
 
-🎓 **Computer Science Graduate** with a passion for creating robust web applications  
-⚡ **Expertise:** Full-stack development with modern JavaScript frameworks  
-🏆 **Leadership:** Ex-President of **Spark Creations KIET** (Fashion & creativity society)  
-🔥 **Currently:** Mastering advanced web technologies & system design  
-💡 **Philosophy:** Clean code, creative solutions, continuous learning
+🎓**Education**: Computer Science Graduate, passionate about building robust web applications  
+⚡ **Expertise** : Full-stack development with modern JavaScript frameworks  
+🏆 **Leadership**: Former President, Spark Creations KIET (fashion & creativity society)  
+🔥 **Currently** : Mastering advanced web technologies & system design  
+💡 **Philosophy**: Clean code, creative solutions, continuous learning  
+🎨 **Vision**    : Merging art and engineering in every project  
+
 
 ---
 
