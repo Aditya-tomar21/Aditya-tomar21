@@ -126,11 +126,12 @@ const developer = {
   </a>
   
   <br/><br/>
-  
-  <img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=31l26iyqrucpkumfr5jzxnfzi5ja&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true" alt="Current Spotify"/>
+
+  *Fuel for those intense coding sessions 🔥*
+
 </div>
 
-*Fuel for those intense coding sessions 🔥*
+
 
 ---
 
