@@ -33,7 +33,7 @@
 
 ## ⚡ About Me
 
-<img align="right" alt="Coding" width="300" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGRhOGlrajFpOXlsbm1kdnVwdXNha3pkZXZxam1pNGVxcmpxMGM0cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QXwtfadqo7wbfmT46H/giphy.gif"/>
+<img align="right" alt="Coding" width="290" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGRhOGlrajFpOXlsbm1kdnVwdXNha3pkZXZxam1pNGVxcmpxMGM0cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QXwtfadqo7wbfmT46H/giphy.gif"/>
 
 ```javascript
 const developer = {
