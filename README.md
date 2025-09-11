@@ -11,8 +11,7 @@
   <div>
     <img src="https://img.shields.io/badge/🚀-Open%20To%20Work-00D9FF?style=for-the-badge&logo=rocket&logoColor=white" alt="Open To Work"/>
   <img src="https://komarev.com/ghpvc/?username=adityas-tomar21&color=blue&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
-
-    <img src="https://img.shields.io/github/followers/Aditya-tomar21?style=for-the-badge&color=orange&logo=github&logoColor=white" alt="Followers"/>
+<img src="https://img.shields.io/github/followers/Aditya-tomar21?style=for-the-badge&color=orange&logo=github&logoColor=white" alt="Followers"/>
   </div>
   <br/>
   
