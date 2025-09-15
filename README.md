@@ -141,7 +141,8 @@ const developer = {
 <div align="center">
 
 ### 🔥 Consistency & Performance
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Aditya-tomar21&theme=dark&hide_border=true&stroke=00D9FF&ring=FFA500&fire=FF6347&currStreakLabel=00D9FF" alt="GitHub Streak" width="450"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Aditya-tomar21&theme=dark&hide_border=true&stroke=00D9FF&ring=FFA500&fire=FF6347&currStreakLabel=00D9FF" alt="GitHub Streak" width="450"/>
+
 
 <br/>
 
@@ -151,6 +152,7 @@ const developer = {
 
 ### 🏆 Achievements
 <img src="https://github-profile-trophy.vercel.app/?username=Aditya-tomar21&theme=darkhub&no-frame=true&row=1&column=6&margin-w=15" alt="GitHub Trophies"/>
+
 
 </div>
 
